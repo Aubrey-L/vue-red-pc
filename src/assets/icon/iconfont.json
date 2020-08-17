@@ -1,0 +1,30 @@
+{
+  "id": "1984774",
+  "name": "HQBuyWeChat",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "16310063",
+      "name": "pencil-edit",
+      "font_class": "pencil-edit",
+      "unicode": "e6e1",
+      "unicode_decimal": 59105
+    },
+    {
+      "icon_id": "16310042",
+      "name": "PocketMoney",
+      "font_class": "PocketMoney",
+      "unicode": "e6df",
+      "unicode_decimal": 59103
+    },
+    {
+      "icon_id": "16310043",
+      "name": "user-plus",
+      "font_class": "user-plus",
+      "unicode": "e6e0",
+      "unicode_decimal": 59104
+    }
+  ]
+}
